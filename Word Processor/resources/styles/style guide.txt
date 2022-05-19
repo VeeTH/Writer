@@ -1,0 +1,42 @@
+STYLE 1: Regular
+
+Generic Sans Serif
+11
+Regular
+---------------------------------------------
+STYLE 2: Heading 1
+
+Generic Sans Serif
+18
+Bold
+---------------------------------------------
+STYLE 3: Professional Heading 1
+
+Times New Roman
+18
+Bold
+---------------------------------------------
+STYLE 4: Heading 2
+
+Generic Sans Serif
+14
+Bold
+---------------------------------------------
+STYLE 5: Professional Heading 2
+
+Times New Roman
+14
+Bold
+---------------------------------------------
+STYLE 6: Title
+
+Arial
+22
+Bold
+---------------------------------------------
+STYLE 7: Professional
+
+Times New Roman
+11
+Regular
+
