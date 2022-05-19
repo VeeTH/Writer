@@ -1,4 +1,4 @@
-# Word Processor
+# Writer
 
 2022 High School Project
 
